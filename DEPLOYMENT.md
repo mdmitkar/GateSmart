@@ -5,6 +5,7 @@
 - Python 3.11+
 - PostgreSQL database
 - Environment variables configured
+- Together AI API key (for AI tutor feature)
 
 ## Frontend Deployment (Next.js)
 
@@ -44,6 +45,9 @@ SECRET_KEY=your-secret-key-here
 ALGORITHM=HS256
 ACCESS_TOKEN_EXPIRE_MINUTES=30
 
+# AI Tutor Configuration
+TOGETHER_API_KEY=your-together-ai-api-key-here
+
 # CORS Settings
 ALLOWED_ORIGINS=http://localhost:3000,https://yourdomain.com
 
@@ -64,6 +68,7 @@ uvicorn app.main:app --host 0.0.0.0 --port 8000
 - ✅ Configure CORS properly
 - ✅ Use HTTPS in production
 - ✅ Set up proper database credentials
+- ✅ Keep API keys secure in environment variables
 
 ### Performance
 - ✅ Use production database (PostgreSQL)
@@ -81,3 +86,11 @@ After deployment, test these endpoints:
 - Frontend: `https://yourdomain.com`
 - Backend: `https://yourdomain.com/api/`
 - Health: `https://yourdomain.com/api/health`
+
+## Feature Status
+- ✅ **Authentication**: Login/Register working
+- ✅ **Quizzes**: Create, take, and track quizzes
+- ✅ **AI Tutor**: Requires TOGETHER_API_KEY
+- ✅ **Study Plans**: Basic functionality
+- ✅ **User Management**: Profile and settings
+- ⚠️ **Database**: Requires proper PostgreSQL setup

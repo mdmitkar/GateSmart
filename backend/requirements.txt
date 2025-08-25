@@ -10,3 +10,4 @@ psycopg2-binary==2.9.9
 alembic==1.13.1
 pytest==7.4.3
 httpx==0.25.2
+together==0.2.11
