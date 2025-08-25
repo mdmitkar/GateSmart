@@ -1,5 +1,8 @@
 HOW TO RUN MD 
 
+abc123@gmail.com
+abc123
+
 FRONTEND 
  C:\Users\Muhammad Mitkar\Desktop\GateSmart\smart-study-app\app>  
  npm run dev
