@@ -72,20 +72,11 @@ venv.bak/
 ss/
 .venv/
 
-# ML models and large files
+# ML model files
 *.pkl
 *.h5
-*.hdf5
 *.model
 *.bin
-*.safetensors
-*.ckpt
-*.pth
-*.pt
-*.onnx
-*.tflite
-*.pb
-*.mlmodel
 
 # Logs
 *.log

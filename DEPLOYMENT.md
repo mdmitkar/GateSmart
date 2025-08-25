@@ -1,4 +1,4 @@
-# Deployment Guide for Smart Study App
+hen # Deployment Guide for Smart Study App
 
 ## Prerequisites
 - Node.js 18+ 

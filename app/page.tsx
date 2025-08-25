@@ -206,6 +206,30 @@ export default function LandingPage() {
           </div>
         </section>
 
+        {/* Demo Link Section */}
+        <section className="py-16 bg-gradient-to-r from-primary/10 to-secondary/10">
+          <div className="container mx-auto px-4 md:px-6">
+            <div className="max-w-4xl mx-auto text-center">
+              <div className="bg-gray-900 rounded-2xl p-8 border border-gray-800">
+                <div className="text-4xl mb-4">🎬</div>
+                <h2 className="text-2xl md:text-3xl font-bold text-white mb-4">
+                  Want to See the Full Site Working?
+                </h2>
+                <p className="text-gray-300 mb-6">
+                  Watch our comprehensive demo to see all features in action! 
+                  Navigate to the navbar and click "Watch Demo" to see the complete app demonstration.
+                </p>
+                <Link href="/demo">
+                  <Button className="button-hover bg-primary hover:bg-primary/90 text-white px-6 py-3 group transition-all duration-300 transform hover:translate-y-[-2px]">
+                    Watch Full Demo
+                    <ArrowRight className="ml-2 h-4 w-4 transition-transform duration-300 group-hover:translate-x-1" />
+                  </Button>
+                </Link>
+              </div>
+            </div>
+          </div>
+        </section>
+
         {/* How It Works Section - With scroll animations */}
         <section
           ref={howItWorksRef}
