@@ -1,0 +1,37 @@
+2025-05-22 11:06:23,152 - SmartStudyApp - INFO - Database connection successful!
+2025-05-22 11:06:28,700 - SmartStudyApp - INFO - Root endpoint accessed
+2025-05-22 11:09:05,788 - SmartStudyApp - INFO - Register attempt for email: newuser@example.com
+2025-05-22 11:09:06,325 - SmartStudyApp - INFO - User registered successfully: newuser@example.com
+2025-05-22 11:14:21,431 - SmartStudyApp - INFO - Database connection successful!
+2025-05-22 11:14:21,667 - SmartStudyApp - INFO - Root endpoint accessed
+2025-05-22 11:14:50,719 - SmartStudyApp - INFO - Register attempt for email: ram@example.com
+2025-05-22 11:14:51,304 - SmartStudyApp - INFO - User registered successfully: ram@example.com
+2025-05-22 11:20:51,098 - SmartStudyApp - INFO - Database connection successful!
+2025-05-22 11:21:01,205 - SmartStudyApp - INFO - Root endpoint accessed
+2025-05-22 11:21:51,708 - SmartStudyApp - INFO - Register attempt for email: newuser@example.com
+2025-05-22 11:21:51,729 - SmartStudyApp - WARNING - Registration failed: Email newuser@example.com already registered
+2025-05-22 11:25:53,120 - SmartStudyApp - INFO - Register attempt for email: newuser2@example.com
+2025-05-22 11:25:53,628 - SmartStudyApp - INFO - User registered successfully: newuser2@example.com
+2025-05-22 11:27:50,050 - SmartStudyApp - INFO - Database connection successful!
+2025-05-22 11:28:05,436 - SmartStudyApp - INFO - Register attempt for email: newuser2@example.com
+2025-05-22 11:28:05,452 - SmartStudyApp - WARNING - Registration failed: Email newuser2@example.com already registered
+2025-05-22 11:28:20,166 - SmartStudyApp - INFO - Register attempt for email: newuser3@example.com
+2025-05-22 11:28:21,011 - SmartStudyApp - INFO - User registered successfully: newuser3@example.com
+2025-05-22 11:31:57,985 - SmartStudyApp - INFO - Database connection successful!
+2025-05-22 11:32:01,888 - SmartStudyApp - INFO - Database connection successful!
+2025-05-22 11:32:06,367 - SmartStudyApp - INFO - Database connection successful!
+2025-05-22 11:32:11,753 - SmartStudyApp - INFO - Database connection successful!
+2025-05-22 11:32:27,166 - SmartStudyApp - INFO - Database connection successful!
+2025-05-22 11:32:50,572 - SmartStudyApp - INFO - Database connection successful!
+2025-05-22 11:33:13,565 - SmartStudyApp - INFO - Login attempt for email: newuser3@example.com
+2025-05-22 11:33:14,186 - SmartStudyApp - INFO - User logged in successfully: newuser3@example.com
+2025-05-22 11:44:53,288 - SmartStudyApp - INFO - Database connection successful!
+2025-05-22 11:45:42,733 - SmartStudyApp - INFO - Creating study session for user ID: 2f44f3da-c92c-4828-b066-9737705ce308
+2025-05-22 11:45:42,770 - SmartStudyApp - INFO - Study session created with ID: 2d436e60-f90f-4aed-addf-1c34ae1ae063
+2025-05-22 11:48:27,614 - SmartStudyApp - INFO - Database connection successful!
+2025-05-22 11:48:58,623 - SmartStudyApp - INFO - Creating study session for user ID: 2f44f3da-c92c-4828-b066-9737705ce308
+2025-05-22 11:48:58,641 - SmartStudyApp - INFO - Study session created with ID: 6fc5ff91-ee29-48d9-9ba8-237e49252e75
+2025-05-22 11:51:23,440 - SmartStudyApp - INFO - Fetching study sessions for user ID: 2f44f3da-c92c-4828-b066-9737705ce308
+2025-05-22 11:52:49,538 - SmartStudyApp - INFO - Fetching study session ID: 6fc5ff91-ee29-48d9-9ba8-237e49252e75 for user ID: 2f44f3da-c92c-4828-b066-9737705ce308
+2025-05-22 11:54:59,696 - SmartStudyApp - INFO - Updating study session ID: 6fc5ff91-ee29-48d9-9ba8-237e49252e75 for user ID: 2f44f3da-c92c-4828-b066-9737705ce308
+2025-05-22 11:54:59,714 - SmartStudyApp - INFO - Study session ID: 6fc5ff91-ee29-48d9-9ba8-237e49252e75 updated successfully

@@ -1,0 +1,124 @@
+2025-06-03 00:40:07,799 - SmartStudyApp - INFO - Database connection successful!
+2025-06-03 00:40:56,691 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-06-03 00:40:56,973 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-06-03 00:41:00,696 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 00:41:17,436 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 00:41:17,455 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 00:41:35,017 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 00:41:35,033 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 00:41:50,146 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: hi
+2025-06-03 00:41:52,048 - SmartStudyApp - INFO - Successfully generated response using model: meta-llama/Llama-3.3-70B-Instruct-Turbo-Free
+2025-06-03 00:41:52,079 - SmartStudyApp - INFO - AI interaction stored with ID: cf9edec6-6b0a-47f0-a4c8-0844d843eb67
+2025-06-03 00:42:24,094 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 00:42:24,108 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 00:45:00,592 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 00:45:00,611 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 00:45:13,040 - SmartStudyApp - INFO - Fetching quiz ID: fbbdcb97-d857-44ca-b233-8a32b1f9cba4 for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 00:45:13,071 - SmartStudyApp - INFO - Fetching quiz ID: fbbdcb97-d857-44ca-b233-8a32b1f9cba4 for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 00:45:15,042 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 00:45:15,085 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 00:45:17,442 - SmartStudyApp - INFO - Fetching quiz ID: 9ce261f3-decb-43f3-99ec-371bc8f84174 for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 00:45:17,466 - SmartStudyApp - INFO - Fetching quiz ID: 9ce261f3-decb-43f3-99ec-371bc8f84174 for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 00:45:35,923 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 00:45:35,936 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 01:24:13,218 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-06-03 01:24:13,534 - SmartStudyApp - WARNING - Login failed for email: testuser@example.com
+2025-06-03 01:24:20,622 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-06-03 01:24:20,855 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-06-03 01:24:23,119 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 01:54:33,231 - SmartStudyApp - INFO - Database connection successful!
+2025-06-03 01:54:50,833 - SmartStudyApp - INFO - Database connection successful!
+2025-06-03 01:55:19,383 - SmartStudyApp - INFO - Database connection successful!
+2025-06-03 01:57:07,651 - SmartStudyApp - INFO - Database connection successful!
+2025-06-03 02:14:02,249 - SmartStudyApp - INFO - Database connection successful!
+2025-06-03 02:14:49,012 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-06-03 02:14:49,307 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-06-03 02:14:56,319 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:15:04,511 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:15:04,655 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:15:15,299 - SmartStudyApp - INFO - Creating study topic for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:15:15,321 - SmartStudyApp - INFO - Study topic created with ID: 8f543a07-c24d-438e-9ee8-508e7cba4f0c
+2025-06-03 02:15:22,854 - SmartStudyApp - INFO - Creating study topic for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:15:22,861 - SmartStudyApp - INFO - Study topic created with ID: 10279afd-ae4f-4ecd-8b0a-bc15e1d465fb
+2025-06-03 02:15:52,902 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:19:37,221 - SmartStudyApp - INFO - Database connection successful!
+2025-06-03 02:20:31,239 - SmartStudyApp - INFO - Database connection successful!
+2025-06-03 02:20:31,382 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:20:43,565 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:20:43,591 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:30:02,523 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-06-03 02:30:02,824 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-06-03 02:30:04,090 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:30:08,275 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:30:08,313 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:36:29,916 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:36:32,576 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:36:32,627 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:36:47,424 - SmartStudyApp - INFO - Creating study session for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:36:47,601 - SmartStudyApp - ERROR - Error creating study session: (psycopg2.errors.UndefinedColumn) column "topic_id" of relation "study_sessions" does not exist
+LINE 1: INSERT INTO study_sessions (id, user_id, topic_id, title, da...
+                                                 ^
+
+[SQL: INSERT INTO study_sessions (id, user_id, topic_id, title, date, start_time, end_time, subject, topic, priority, completed, comprehension_level, notes, created_at, updated_at) VALUES (%(id)s::UUID, %(user_id)s::UUID, %(topic_id)s::UUID, %(title)s, %(date)s, %(start_time)s, %(end_time)s, %(subject)s, %(topic)s, %(priority)s, %(completed)s, %(comprehension_level)s, %(notes)s, %(created_at)s, %(updated_at)s)]
+[parameters: {'id': UUID('a634d8c1-2265-4539-9e66-0b90a46f852e'), 'user_id': UUID('026bbd66-baec-4d36-b9cf-a98695a672b9'), 'topic_id': '8f543a07-c24d-438e-9ee8-508e7cba4f0c', 'title': 'Study Session', 'date': datetime.date(2025, 6, 2), 'start_time': datetime.time(9, 0), 'end_time': datetime.time(10, 0), 'subject': None, 'topic': None, 'priority': None, 'completed': False, 'comprehension_level': 1, 'notes': None, 'created_at': datetime.datetime(2025, 6, 2, 21, 6, 47, 472178), 'updated_at': datetime.datetime(2025, 6, 2, 21, 6, 47, 472178)}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-06-03 02:36:53,121 - SmartStudyApp - INFO - Creating study session for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:36:53,125 - SmartStudyApp - ERROR - Error creating study session: (psycopg2.errors.UndefinedColumn) column "topic_id" of relation "study_sessions" does not exist
+LINE 1: INSERT INTO study_sessions (id, user_id, topic_id, title, da...
+                                                 ^
+
+[SQL: INSERT INTO study_sessions (id, user_id, topic_id, title, date, start_time, end_time, subject, topic, priority, completed, comprehension_level, notes, created_at, updated_at) VALUES (%(id)s::UUID, %(user_id)s::UUID, %(topic_id)s::UUID, %(title)s, %(date)s, %(start_time)s, %(end_time)s, %(subject)s, %(topic)s, %(priority)s, %(completed)s, %(comprehension_level)s, %(notes)s, %(created_at)s, %(updated_at)s)]
+[parameters: {'id': UUID('121ef997-da8d-4631-b771-d40bff228f5d'), 'user_id': UUID('026bbd66-baec-4d36-b9cf-a98695a672b9'), 'topic_id': '8f543a07-c24d-438e-9ee8-508e7cba4f0c', 'title': 'Study Session', 'date': datetime.date(2025, 6, 2), 'start_time': datetime.time(9, 0), 'end_time': datetime.time(10, 0), 'subject': None, 'topic': None, 'priority': None, 'completed': False, 'comprehension_level': 1, 'notes': None, 'created_at': datetime.datetime(2025, 6, 2, 21, 6, 53, 122810), 'updated_at': datetime.datetime(2025, 6, 2, 21, 6, 53, 122810)}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-06-03 02:42:39,446 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:42:52,661 - SmartStudyApp - INFO - Creating study topic for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:42:52,704 - SmartStudyApp - INFO - Study topic created with ID: 6082c368-0aa0-4f34-ad10-e5bb6de45d36
+2025-06-03 02:43:09,907 - SmartStudyApp - INFO - Creating study session for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:43:09,927 - SmartStudyApp - ERROR - Error creating study session: (psycopg2.errors.UndefinedColumn) column "comprehension_level" of relation "study_sessions" does not exist
+LINE 1: ...e, end_time, subject, topic, priority, completed, comprehens...
+                                                             ^
+
+[SQL: INSERT INTO study_sessions (id, user_id, topic_id, title, date, start_time, end_time, subject, topic, priority, completed, comprehension_level, notes, created_at, updated_at) VALUES (%(id)s::UUID, %(user_id)s::UUID, %(topic_id)s::UUID, %(title)s, %(date)s, %(start_time)s, %(end_time)s, %(subject)s, %(topic)s, %(priority)s, %(completed)s, %(comprehension_level)s, %(notes)s, %(created_at)s, %(updated_at)s)]
+[parameters: {'id': UUID('8463a6cc-94d2-48ec-a2a4-cbe59537cce3'), 'user_id': UUID('026bbd66-baec-4d36-b9cf-a98695a672b9'), 'topic_id': '6082c368-0aa0-4f34-ad10-e5bb6de45d36', 'title': 'Study Session', 'date': datetime.date(2025, 6, 2), 'start_time': datetime.time(11, 1), 'end_time': datetime.time(0, 0), 'subject': None, 'topic': None, 'priority': None, 'completed': False, 'comprehension_level': 1, 'notes': None, 'created_at': datetime.datetime(2025, 6, 2, 21, 13, 9, 909505), 'updated_at': datetime.datetime(2025, 6, 2, 21, 13, 9, 909505)}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-06-03 02:43:13,149 - SmartStudyApp - INFO - Creating study session for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:43:13,157 - SmartStudyApp - ERROR - Error creating study session: (psycopg2.errors.UndefinedColumn) column "comprehension_level" of relation "study_sessions" does not exist
+LINE 1: ...e, end_time, subject, topic, priority, completed, comprehens...
+                                                             ^
+
+[SQL: INSERT INTO study_sessions (id, user_id, topic_id, title, date, start_time, end_time, subject, topic, priority, completed, comprehension_level, notes, created_at, updated_at) VALUES (%(id)s::UUID, %(user_id)s::UUID, %(topic_id)s::UUID, %(title)s, %(date)s, %(start_time)s, %(end_time)s, %(subject)s, %(topic)s, %(priority)s, %(completed)s, %(comprehension_level)s, %(notes)s, %(created_at)s, %(updated_at)s)]
+[parameters: {'id': UUID('fb1f59af-3514-4033-952e-f39fa62ddf6a'), 'user_id': UUID('026bbd66-baec-4d36-b9cf-a98695a672b9'), 'topic_id': '6082c368-0aa0-4f34-ad10-e5bb6de45d36', 'title': 'Study Session', 'date': datetime.date(2025, 6, 2), 'start_time': datetime.time(11, 1), 'end_time': datetime.time(0, 0), 'subject': None, 'topic': None, 'priority': None, 'completed': False, 'comprehension_level': 1, 'notes': None, 'created_at': datetime.datetime(2025, 6, 2, 21, 13, 13, 152806), 'updated_at': datetime.datetime(2025, 6, 2, 21, 13, 13, 152806)}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-06-03 02:45:26,704 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:45:31,983 - SmartStudyApp - INFO - Creating study session for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:45:32,001 - SmartStudyApp - INFO - Study session created with ID: 0710fb97-d28c-4e94-8434-80af7889c91f
+2025-06-03 02:47:46,119 - SmartStudyApp - INFO - Creating study session for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:47:46,128 - SmartStudyApp - INFO - Study session created with ID: ae5cd845-6aac-47b0-95cf-ad7ce9b4b22e
+2025-06-03 02:48:01,838 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:48:01,904 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:48:06,120 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:48:06,370 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:48:11,840 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:48:23,112 - SmartStudyApp - INFO - Creating study topic for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:48:23,116 - SmartStudyApp - INFO - Study topic created with ID: dd6b0fbd-cfd3-423d-b6ec-f227ed151660
+2025-06-03 02:49:23,020 - SmartStudyApp - INFO - Creating study session for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 02:49:23,025 - SmartStudyApp - INFO - Study session created with ID: 72826dcf-d1a6-424a-913d-299bb72ec57e
+2025-06-03 02:54:53,327 - SmartStudyApp - INFO - Database connection successful!
+2025-06-03 03:15:23,450 - SmartStudyApp - INFO - Database connection successful!
+2025-06-03 03:15:51,853 - SmartStudyApp - INFO - Database connection successful!
+2025-06-03 03:18:09,265 - SmartStudyApp - INFO - Database connection successful!
+2025-06-03 03:24:06,371 - SmartStudyApp - INFO - Database connection successful!
+2025-06-03 03:24:35,922 - SmartStudyApp - INFO - Database connection successful!
+2025-06-03 03:25:20,920 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-06-03 03:25:21,220 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-06-03 03:25:25,443 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 03:25:33,879 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 03:25:33,935 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 03:25:45,837 - SmartStudyApp - INFO - Creating study topic for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 03:25:45,872 - SmartStudyApp - INFO - Study topic created with ID: 79bcfeba-47d0-4cae-9450-bf5095a40dde
+2025-06-03 03:25:47,785 - SmartStudyApp - INFO - Creating study topic for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 03:25:47,790 - SmartStudyApp - INFO - Study topic created with ID: c66afa17-d779-4fe4-9954-543bf4bd45d6
+2025-06-03 03:25:52,294 - SmartStudyApp - INFO - Creating study topic for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 03:25:52,303 - SmartStudyApp - INFO - Study topic created with ID: 7c8bf40d-ef73-4766-9abe-396609ea16c2
+2025-06-03 03:25:52,836 - SmartStudyApp - INFO - Creating study topic for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-03 03:25:52,840 - SmartStudyApp - INFO - Study topic created with ID: 8e01fa1d-902c-44c1-86ec-afb05e759125

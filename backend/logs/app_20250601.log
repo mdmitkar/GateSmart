@@ -1,0 +1,19 @@
+2025-06-01 13:07:46,248 - SmartStudyApp - INFO - Database connection successful!
+2025-06-01 13:07:48,065 - SmartStudyApp - INFO - Root endpoint accessed
+2025-06-01 13:09:04,577 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-06-01 13:09:04,849 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-06-01 13:09:05,889 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-01 13:09:15,472 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: What is virtual memory in operating systems?
+2025-06-01 13:09:15,479 - SmartStudyApp - INFO - Matched query 'what is virtual memory in operating systems?' to 'what is virtual memory in operating systems' with score 100
+2025-06-01 13:09:15,513 - SmartStudyApp - INFO - AI interaction stored with ID: 2179e887-41b9-41b7-a081-629f0366a580
+2025-06-01 13:09:25,958 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: thanks
+2025-06-01 13:09:25,959 - SmartStudyApp - INFO - Matched query 'thanks' to 'thank you' with score 83
+2025-06-01 13:09:25,965 - SmartStudyApp - INFO - AI interaction stored with ID: 0216baae-f146-4a4e-8760-32aab0655082
+2025-06-01 13:09:33,872 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: how r u
+2025-06-01 13:09:33,873 - SmartStudyApp - INFO - No match found for query: how r u
+2025-06-01 13:09:33,882 - SmartStudyApp - INFO - AI interaction stored with ID: 6d0207ea-599f-4394-96dd-56dc5250596c
+2025-06-01 13:11:54,986 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-01 13:11:55,007 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-01 13:12:01,214 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: hi
+2025-06-01 13:12:01,216 - SmartStudyApp - INFO - Matched query 'hi' to 'hi' with score 100
+2025-06-01 13:12:01,228 - SmartStudyApp - INFO - AI interaction stored with ID: 7885cdf1-5a69-4e1e-a253-acc827e9431b

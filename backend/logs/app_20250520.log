@@ -1,0 +1,17 @@
+2025-05-20 13:49:32,127 - SmartStudyApp - ERROR - Failed to connect to database: Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2025-05-20 13:53:42,672 - SmartStudyApp - INFO - Database connection successful!
+2025-05-20 13:53:52,281 - SmartStudyApp - INFO - Database connection successful!
+2025-05-20 13:54:24,640 - SmartStudyApp - INFO - Database connection successful!
+2025-05-20 14:01:59,074 - SmartStudyApp - INFO - Database connection successful!
+2025-05-20 14:02:38,093 - SmartStudyApp - INFO - Database connection successful!
+2025-05-20 14:02:50,065 - SmartStudyApp - INFO - Database connection successful!
+2025-05-20 14:03:11,035 - SmartStudyApp - INFO - Database connection successful!
+2025-05-20 14:03:19,445 - SmartStudyApp - INFO - Database connection successful!
+2025-05-20 14:03:26,353 - SmartStudyApp - INFO - Database connection successful!
+2025-05-20 14:03:35,381 - SmartStudyApp - INFO - Database connection successful!
+2025-05-20 14:03:52,783 - SmartStudyApp - INFO - Database connection successful!
+2025-05-20 14:04:05,451 - SmartStudyApp - INFO - Database connection successful!
+2025-05-20 14:04:27,657 - SmartStudyApp - INFO - Database connection successful!
+2025-05-20 14:04:34,659 - SmartStudyApp - INFO - Database connection successful!
+2025-05-20 14:04:46,608 - SmartStudyApp - INFO - Database connection successful!
+2025-05-20 14:05:29,723 - SmartStudyApp - INFO - Root endpoint accessed

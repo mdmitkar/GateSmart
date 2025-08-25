@@ -1,0 +1,86 @@
+2025-05-25 12:46:18,070 - SmartStudyApp - INFO - Database connection successful!
+2025-05-25 12:46:24,560 - SmartStudyApp - INFO - Root endpoint accessed
+2025-05-25 12:47:04,980 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-05-25 12:47:05,502 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-05-25 12:47:06,932 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-25 12:47:24,101 - SmartStudyApp - INFO - Login attempt for email: johncena@gmail.com
+2025-05-25 12:47:24,421 - SmartStudyApp - INFO - User logged in successfully: johncena@gmail.com
+2025-05-25 12:47:26,142 - SmartStudyApp - INFO - Fetching quizzes for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:47:43,552 - SmartStudyApp - INFO - Fetching quiz ID: fbbdcb97-d857-44ca-b233-8a32b1f9cba4 for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:47:43,588 - SmartStudyApp - INFO - Fetching quiz ID: fbbdcb97-d857-44ca-b233-8a32b1f9cba4 for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:47:43,616 - SmartStudyApp - INFO - Starting quiz attempt for quiz ID: fbbdcb97-d857-44ca-b233-8a32b1f9cba4 by user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:47:43,681 - SmartStudyApp - INFO - Quiz attempt created with ID: 8d77ecf7-5c24-4f8a-92e3-555d3c540dfd
+2025-05-25 12:47:44,420 - SmartStudyApp - INFO - Starting quiz attempt for quiz ID: fbbdcb97-d857-44ca-b233-8a32b1f9cba4 by user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:47:47,826 - SmartStudyApp - INFO - Fetching quizzes for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:47:47,849 - SmartStudyApp - INFO - Fetching quizzes for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:47:52,420 - SmartStudyApp - INFO - Fetching quiz ID: fbbdcb97-d857-44ca-b233-8a32b1f9cba4 for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:47:52,441 - SmartStudyApp - INFO - Fetching quiz ID: fbbdcb97-d857-44ca-b233-8a32b1f9cba4 for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:47:54,710 - SmartStudyApp - INFO - Fetching quizzes for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:47:54,732 - SmartStudyApp - INFO - Fetching quizzes for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:47:59,859 - SmartStudyApp - INFO - Fetching quiz ID: fbbdcb97-d857-44ca-b233-8a32b1f9cba4 for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:47:59,874 - SmartStudyApp - INFO - Fetching quiz ID: fbbdcb97-d857-44ca-b233-8a32b1f9cba4 for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:48:05,422 - SmartStudyApp - INFO - Starting quiz attempt for quiz ID: fbbdcb97-d857-44ca-b233-8a32b1f9cba4 by user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:50:06,624 - SmartStudyApp - INFO - Database connection successful!
+2025-05-25 12:50:15,900 - SmartStudyApp - INFO - Fetching quizzes for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:50:15,961 - SmartStudyApp - INFO - Fetching quizzes for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:50:22,108 - SmartStudyApp - INFO - Fetching quizzes for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:50:28,254 - SmartStudyApp - INFO - Fetching quiz ID: 9ce261f3-decb-43f3-99ec-371bc8f84174 for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:50:28,275 - SmartStudyApp - INFO - Fetching quiz ID: 9ce261f3-decb-43f3-99ec-371bc8f84174 for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:50:28,306 - SmartStudyApp - INFO - Starting quiz attempt for quiz ID: 9ce261f3-decb-43f3-99ec-371bc8f84174 by user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:50:28,327 - SmartStudyApp - INFO - Quiz attempt created with ID: 4dec8543-d160-42fc-9753-5ffa3809488e
+2025-05-25 12:50:28,571 - SmartStudyApp - INFO - Starting quiz attempt for quiz ID: 9ce261f3-decb-43f3-99ec-371bc8f84174 by user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:50:29,904 - SmartStudyApp - INFO - Fetching quizzes for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:50:29,933 - SmartStudyApp - INFO - Fetching quizzes for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:50:33,279 - SmartStudyApp - INFO - Fetching quiz ID: 38605548-0504-4632-b00e-7c8519bf4107 for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:50:33,295 - SmartStudyApp - INFO - Fetching quiz ID: 38605548-0504-4632-b00e-7c8519bf4107 for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:50:33,322 - SmartStudyApp - INFO - Starting quiz attempt for quiz ID: 38605548-0504-4632-b00e-7c8519bf4107 by user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:50:33,339 - SmartStudyApp - INFO - Quiz attempt created with ID: f92d541c-cf59-49f8-8170-3e1b06d56f38
+2025-05-25 12:50:33,355 - SmartStudyApp - INFO - Starting quiz attempt for quiz ID: 38605548-0504-4632-b00e-7c8519bf4107 by user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:51:05,527 - SmartStudyApp - INFO - Fetching quizzes for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:51:05,547 - SmartStudyApp - INFO - Fetching quizzes for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:51:07,404 - SmartStudyApp - INFO - Fetching quiz ID: 9ce261f3-decb-43f3-99ec-371bc8f84174 for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:51:07,417 - SmartStudyApp - INFO - Fetching quiz ID: 9ce261f3-decb-43f3-99ec-371bc8f84174 for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:51:09,983 - SmartStudyApp - INFO - Fetching quizzes for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:51:09,999 - SmartStudyApp - INFO - Fetching quizzes for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:51:13,500 - SmartStudyApp - INFO - Fetching quiz ID: 38605548-0504-4632-b00e-7c8519bf4107 for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:51:13,528 - SmartStudyApp - INFO - Fetching quiz ID: 38605548-0504-4632-b00e-7c8519bf4107 for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 12:51:38,523 - SmartStudyApp - INFO - Starting quiz attempt for quiz ID: 38605548-0504-4632-b00e-7c8519bf4107 by user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 13:01:12,511 - SmartStudyApp - INFO - Database connection successful!
+2025-05-25 13:01:16,651 - SmartStudyApp - INFO - Database connection successful!
+2025-05-25 13:01:55,184 - SmartStudyApp - INFO - Database connection successful!
+2025-05-25 13:02:06,781 - SmartStudyApp - INFO - Database connection successful!
+2025-05-25 13:02:30,667 - SmartStudyApp - INFO - Database connection successful!
+2025-05-25 13:02:44,104 - SmartStudyApp - INFO - Database connection successful!
+2025-05-25 13:02:58,362 - SmartStudyApp - INFO - Database connection successful!
+2025-05-25 13:03:42,892 - SmartStudyApp - INFO - Database connection successful!
+2025-05-25 13:04:16,592 - SmartStudyApp - INFO - Fetching quizzes for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 13:04:16,636 - SmartStudyApp - INFO - Fetching quizzes for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 13:04:19,932 - SmartStudyApp - INFO - Fetching quizzes for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4
+2025-05-25 13:04:39,124 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-05-25 13:04:39,579 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-05-25 13:04:40,702 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-25 13:06:52,891 - SmartStudyApp - INFO - Database connection successful!
+2025-05-25 13:06:53,923 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-25 13:06:57,758 - SmartStudyApp - INFO - Fetching quiz ID: 9ce261f3-decb-43f3-99ec-371bc8f84174 for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-25 13:06:57,793 - SmartStudyApp - INFO - Fetching quiz ID: 9ce261f3-decb-43f3-99ec-371bc8f84174 for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-25 13:06:57,819 - SmartStudyApp - INFO - Starting quiz attempt for quiz ID: 9ce261f3-decb-43f3-99ec-371bc8f84174 by user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-25 13:06:57,852 - SmartStudyApp - INFO - Quiz attempt created with ID: 557c95e8-e0e8-4dda-8807-44f8e87082ae
+2025-05-25 13:06:57,862 - SmartStudyApp - INFO - Starting quiz attempt for quiz ID: 9ce261f3-decb-43f3-99ec-371bc8f84174 by user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-25 13:07:00,136 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-25 13:07:00,152 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-25 13:07:04,670 - SmartStudyApp - INFO - Fetching quiz ID: fbbdcb97-d857-44ca-b233-8a32b1f9cba4 for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-25 13:07:04,685 - SmartStudyApp - INFO - Fetching quiz ID: fbbdcb97-d857-44ca-b233-8a32b1f9cba4 for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-25 13:07:04,704 - SmartStudyApp - INFO - Starting quiz attempt for quiz ID: fbbdcb97-d857-44ca-b233-8a32b1f9cba4 by user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-25 13:07:04,718 - SmartStudyApp - INFO - Quiz attempt created with ID: ffc30809-3d66-4df3-b93e-2269368e4ab1
+2025-05-25 13:07:04,724 - SmartStudyApp - INFO - Starting quiz attempt for quiz ID: fbbdcb97-d857-44ca-b233-8a32b1f9cba4 by user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-25 13:07:09,623 - SmartStudyApp - INFO - Starting quiz attempt for quiz ID: fbbdcb97-d857-44ca-b233-8a32b1f9cba4 by user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-25 13:07:11,250 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-25 13:07:11,269 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-25 13:07:25,839 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-05-25 13:07:26,236 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-05-25 13:07:27,413 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-25 13:07:43,531 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-25 13:07:43,563 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-25 13:07:59,094 - SmartStudyApp - INFO - Login attempt for email: johncena@gmail.com
+2025-05-25 13:07:59,449 - SmartStudyApp - INFO - User logged in successfully: johncena@gmail.com
+2025-05-25 13:08:00,778 - SmartStudyApp - INFO - Fetching quizzes for user ID: 7b58038b-699c-49a8-8d2f-d6f4458b74f4

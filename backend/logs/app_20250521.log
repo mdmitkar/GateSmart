@@ -1,0 +1,54 @@
+2025-05-21 12:44:40,388 - SmartStudyApp - INFO - Database connection successful!
+2025-05-21 12:44:45,535 - SmartStudyApp - INFO - Root endpoint accessed
+2025-05-21 13:19:01,112 - SmartStudyApp - INFO - Register attempt for email: john@example.com
+2025-05-21 13:19:01,206 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Muhammad Mitkar\Desktop\GateSmart\smart-study-app\backend\ss\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-21 13:19:01,615 - SmartStudyApp - INFO - User registered successfully: john@example.com
+2025-05-21 13:22:23,676 - SmartStudyApp - INFO - Database connection successful!
+2025-05-21 13:26:12,531 - SmartStudyApp - INFO - Database connection successful!
+2025-05-21 13:26:41,470 - SmartStudyApp - INFO - Database connection successful!
+2025-05-21 13:26:49,787 - SmartStudyApp - INFO - Root endpoint accessed
+2025-05-21 13:27:51,976 - SmartStudyApp - INFO - Register attempt for email: alice@example.com
+2025-05-21 13:27:51,992 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Muhammad Mitkar\Desktop\GateSmart\smart-study-app\backend\ss\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-21 13:27:52,268 - SmartStudyApp - INFO - User registered successfully: alice@example.com
+2025-05-21 13:31:18,391 - SmartStudyApp - INFO - Database connection successful!
+2025-05-21 13:31:21,000 - SmartStudyApp - INFO - Root endpoint accessed
+2025-05-21 13:33:01,079 - SmartStudyApp - INFO - Database connection successful!
+2025-05-21 13:33:26,874 - SmartStudyApp - INFO - Database connection successful!
+2025-05-21 13:33:57,109 - SmartStudyApp - INFO - Register attempt for email: bob@example.com
+2025-05-21 13:33:57,396 - SmartStudyApp - INFO - User registered successfully: bob@example.com
+2025-05-21 13:35:22,169 - SmartStudyApp - INFO - Login attempt for email: bob@example.com
+2025-05-21 13:35:22,432 - SmartStudyApp - INFO - User logged in successfully: bob@example.com
+2025-05-21 16:05:19,165 - SmartStudyApp - INFO - Database connection successful!
+2025-05-21 16:05:23,800 - SmartStudyApp - INFO - Root endpoint accessed
+2025-05-21 16:06:43,651 - SmartStudyApp - INFO - Database connection successful!
+2025-05-21 16:07:49,948 - SmartStudyApp - INFO - Database connection successful!
+2025-05-21 16:08:20,858 - SmartStudyApp - INFO - Database connection successful!
+2025-05-21 16:09:20,524 - SmartStudyApp - INFO - Database connection successful!
+2025-05-21 16:09:36,273 - SmartStudyApp - INFO - Database connection successful!
+2025-05-21 16:31:03,364 - SmartStudyApp - INFO - Login attempt for email: bob@example.com
+2025-05-21 16:31:04,368 - SmartStudyApp - INFO - User logged in successfully: bob@example.com
+2025-05-21 16:36:33,178 - SmartStudyApp - INFO - Database connection successful!
+2025-05-21 16:36:41,223 - SmartStudyApp - INFO - Database connection successful!
+2025-05-21 16:45:23,476 - SmartStudyApp - INFO - Database connection successful!
+2025-05-21 16:45:37,766 - SmartStudyApp - INFO - Database connection successful!
+2025-05-21 16:47:51,397 - SmartStudyApp - INFO - Database connection successful!
+2025-05-21 16:54:04,217 - SmartStudyApp - INFO - Database connection successful!
+2025-05-21 17:17:09,462 - SmartStudyApp - INFO - Database connection successful!
+2025-05-21 17:18:35,618 - SmartStudyApp - INFO - Database connection successful!
+2025-05-21 17:18:55,146 - SmartStudyApp - INFO - Database connection successful!
+2025-05-21 17:21:44,198 - SmartStudyApp - INFO - Login attempt for email: bob@example.com
+2025-05-21 17:21:44,513 - SmartStudyApp - INFO - User logged in successfully: bob@example.com
+2025-05-21 17:22:18,523 - SmartStudyApp - INFO - Database connection successful!
+2025-05-21 17:25:14,757 - SmartStudyApp - INFO - Login attempt for email: bob@example.com
+2025-05-21 17:25:16,106 - SmartStudyApp - INFO - User logged in successfully: bob@example.com
+2025-05-21 17:27:18,796 - SmartStudyApp - INFO - Database connection successful!

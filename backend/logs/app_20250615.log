@@ -1,0 +1,80 @@
+2025-06-15 02:01:21,600 - SmartStudyApp - INFO - Database connection successful!
+2025-06-15 02:01:21,724 - SmartStudyApp - INFO - Root endpoint accessed
+2025-06-15 02:01:46,104 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-06-15 02:01:46,412 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-06-15 02:01:50,258 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 02:01:57,815 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 02:01:58,253 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 02:02:12,115 - SmartStudyApp - INFO - Creating study topic for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 02:02:12,152 - SmartStudyApp - INFO - Study topic created with ID: 1820f4c1-5d0b-4d93-9794-9c5d9c37b023
+2025-06-15 02:02:16,137 - SmartStudyApp - INFO - Creating study topic for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 02:02:16,147 - SmartStudyApp - INFO - Study topic created with ID: b91a044d-890d-4dbd-a414-9042ddd227ab
+2025-06-15 02:02:38,648 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: Hi
+2025-06-15 02:02:45,907 - SmartStudyApp - INFO - Successfully generated response using model: meta-llama/Llama-3.3-70B-Instruct-Turbo-Free
+2025-06-15 02:02:45,928 - SmartStudyApp - INFO - AI interaction stored with ID: c8a66054-ba2e-4a9c-8359-477bf2322a48
+2025-06-15 02:06:05,342 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-06-15 02:06:05,565 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-06-15 02:06:06,970 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 02:06:08,756 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 02:06:08,780 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 02:06:54,126 - SmartStudyApp - INFO - Creating study topic for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 02:06:54,137 - SmartStudyApp - INFO - Study topic created with ID: 1fd8ffcd-4e94-4669-95f9-ae5c6e792840
+2025-06-15 02:13:13,680 - SmartStudyApp - INFO - Database connection successful!
+2025-06-15 02:13:35,160 - SmartStudyApp - INFO - Database connection successful!
+2025-06-15 02:22:59,533 - SmartStudyApp - INFO - Creating study topic for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 02:22:59,596 - SmartStudyApp - INFO - Study topic created with ID: f4ec002c-8294-400b-ac25-feef800d6c5d
+2025-06-15 02:23:13,774 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 02:27:31,129 - SmartStudyApp - INFO - Database connection successful!
+2025-06-15 02:27:41,410 - SmartStudyApp - INFO - Database connection successful!
+2025-06-15 02:27:59,917 - SmartStudyApp - INFO - Database connection successful!
+2025-06-15 02:28:25,922 - SmartStudyApp - INFO - Creating study topic for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 02:28:25,932 - SmartStudyApp - INFO - Study topic created with ID: abd94747-161d-455c-a6e3-9a1e3aedc8c2
+2025-06-15 02:28:50,491 - SmartStudyApp - INFO - Creating study session for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 02:28:50,528 - SmartStudyApp - INFO - Study session created with ID: 52748cf8-77e0-4b4c-89a6-b668bb31ee21
+2025-06-15 02:28:50,855 - SmartStudyApp - INFO - Creating study session for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 02:28:50,863 - SmartStudyApp - INFO - Study session created with ID: 70219683-377a-4451-bd60-985d7840f3c5
+2025-06-15 02:33:54,946 - SmartStudyApp - INFO - Database connection successful!
+2025-06-15 02:34:24,153 - SmartStudyApp - INFO - Creating study session for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 02:34:24,179 - SmartStudyApp - INFO - Study session created with ID: c50af699-b9b5-4aa6-bd49-58ba071d3f1f
+2025-06-15 02:44:53,269 - SmartStudyApp - INFO - Database connection successful!
+2025-06-15 02:45:03,945 - SmartStudyApp - INFO - Database connection successful!
+2025-06-15 02:49:40,628 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-06-15 02:49:40,981 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-06-15 02:49:44,082 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 02:49:51,379 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 02:49:51,410 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 02:50:04,310 - SmartStudyApp - INFO - Creating study session for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 02:50:04,400 - SmartStudyApp - INFO - Study session created with ID: 19d92195-f2d6-4746-975d-ef0f161097a1
+2025-06-15 02:59:52,658 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: Explain the OSI model in computer networks
+2025-06-15 03:00:03,287 - SmartStudyApp - INFO - Successfully generated response using model: meta-llama/Llama-3.3-70B-Instruct-Turbo-Free
+2025-06-15 03:00:03,453 - SmartStudyApp - INFO - AI interaction stored with ID: f0bec9ad-60e5-4643-90c7-726bb66c538f
+2025-06-15 03:00:08,445 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 03:00:08,462 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 03:00:33,174 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 03:00:33,188 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 03:00:36,481 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 03:00:36,521 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 03:00:44,872 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 03:00:44,886 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 04:14:39,715 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-06-15 04:14:40,036 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-06-15 04:14:44,664 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 04:15:26,231 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: Hi
+2025-06-15 04:15:31,963 - SmartStudyApp - INFO - Successfully generated response using model: meta-llama/Llama-3.3-70B-Instruct-Turbo-Free
+2025-06-15 04:15:32,035 - SmartStudyApp - INFO - AI interaction stored with ID: a3af9929-3793-4420-93c0-f1aefd22bf01
+2025-06-15 04:15:47,380 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: explain me tcp ip
+2025-06-15 04:15:51,374 - SmartStudyApp - INFO - Successfully generated response using model: meta-llama/Llama-3.3-70B-Instruct-Turbo-Free
+2025-06-15 04:15:51,400 - SmartStudyApp - INFO - AI interaction stored with ID: 73076952-95bb-4c3c-a93e-c2d651e56797
+2025-06-15 04:15:54,698 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 04:15:54,745 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 04:16:35,689 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 04:16:35,721 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 04:16:38,692 - SmartStudyApp - INFO - Fetching quiz ID: 9ce261f3-decb-43f3-99ec-371bc8f84174 for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 04:16:38,788 - SmartStudyApp - INFO - Fetching quiz ID: 9ce261f3-decb-43f3-99ec-371bc8f84174 for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 04:16:58,115 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 04:16:58,132 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 04:17:03,892 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 04:17:03,982 - SmartStudyApp - INFO - Fetching study topics for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 04:17:18,020 - SmartStudyApp - INFO - Creating study session for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-15 04:17:18,093 - SmartStudyApp - INFO - Study session created with ID: aebbeb1d-8373-43e1-aa0f-7be02a73318f
+2025-06-15 04:35:33,214 - SmartStudyApp - INFO - Database connection successful!

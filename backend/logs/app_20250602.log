@@ -1,0 +1,76 @@
+2025-06-02 16:58:49,058 - SmartStudyApp - INFO - Database connection successful!
+2025-06-02 16:58:49,559 - SmartStudyApp - INFO - Root endpoint accessed
+2025-06-02 16:58:49,724 - SmartStudyApp - INFO - Root endpoint accessed
+2025-06-02 16:59:47,108 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-06-02 16:59:47,498 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-06-02 16:59:49,171 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-02 17:16:49,085 - SmartStudyApp - INFO - Database connection successful!
+2025-06-02 17:19:02,598 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: hi
+2025-06-02 17:19:02,604 - SmartStudyApp - INFO - Matched query 'hi' to 'hi' with score 100
+2025-06-02 17:19:02,639 - SmartStudyApp - INFO - AI interaction stored with ID: 1588417a-b0e5-4c06-b2b0-7b535fff26f6
+2025-06-02 17:19:20,987 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: what is process in os
+2025-06-02 17:19:20,988 - SmartStudyApp - INFO - No match found for query: what is process in os
+2025-06-02 17:19:20,991 - SmartStudyApp - INFO - AI interaction stored with ID: 410404f1-58aa-4b08-b2ea-d599358a2a42
+2025-06-02 17:19:30,099 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: Explain the OSI model in computer networks
+2025-06-02 17:19:30,100 - SmartStudyApp - INFO - Matched query 'explain the osi model in computer networks' to 'explain the osi model in computer networks' with score 100
+2025-06-02 17:19:30,112 - SmartStudyApp - INFO - AI interaction stored with ID: 91f4944d-0f74-4fab-95f8-f1087260476a
+2025-06-02 17:20:57,124 - SmartStudyApp - INFO - Database connection successful!
+2025-06-02 17:21:10,005 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: Explain the OSI model in computer networks
+2025-06-02 17:21:10,875 - together - INFO - error_code=invalid_api_key error_message='Invalid API key provided. You can find your API key at https://api.together.xyz/settings/api-keys.' error_param=None error_type=invalid_request_error message='Together API error received' stream_error=False
+2025-06-02 17:21:10,876 - SmartStudyApp - ERROR - Failed to generate Together AI response: Error code: 401 - {"message": "Invalid API key provided. You can find your API key at https://api.together.xyz/settings/api-keys.", "type_": "invalid_request_error", "code": "invalid_api_key"}
+2025-06-02 17:21:10,894 - SmartStudyApp - INFO - AI interaction stored with ID: 62722379-b985-470e-abbe-1b7b56f465ed
+2025-06-02 17:25:15,912 - SmartStudyApp - INFO - Database connection successful!
+2025-06-02 17:25:26,848 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: hioo
+2025-06-02 17:25:27,664 - together - INFO - error_code=invalid_api_key error_message='Invalid API key provided. You can find your API key at https://api.together.xyz/settings/api-keys.' error_param=None error_type=invalid_request_error message='Together API error received' stream_error=False
+2025-06-02 17:25:27,665 - SmartStudyApp - ERROR - Failed to generate Together AI response: Error code: 401 - {"message": "Invalid API key provided. You can find your API key at https://api.together.xyz/settings/api-keys.", "type_": "invalid_request_error", "code": "invalid_api_key"}
+2025-06-02 17:25:27,687 - SmartStudyApp - INFO - AI interaction stored with ID: ea605c50-d59a-4d06-8d75-af98338bee95
+2025-06-02 17:30:05,129 - SmartStudyApp - INFO - Database connection successful!
+2025-06-02 17:30:53,215 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-06-02 17:30:53,626 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-06-02 17:30:54,952 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-02 17:31:03,166 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: Explain the OSI model in computer networks
+2025-06-02 17:31:07,644 - SmartStudyApp - INFO - Successfully generated response using model: meta-llama/Llama-3.3-70B-Instruct-Turbo-Free
+2025-06-02 17:31:07,660 - SmartStudyApp - INFO - AI interaction stored with ID: c2ac6c49-35c3-4371-b5f7-cdec7b1fe8fa
+2025-06-02 17:31:15,816 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: hi
+2025-06-02 17:31:18,405 - SmartStudyApp - INFO - Successfully generated response using model: meta-llama/Llama-3.3-70B-Instruct-Turbo-Free
+2025-06-02 17:31:18,408 - SmartStudyApp - INFO - AI interaction stored with ID: ac7dc523-8c04-4d1c-ba9b-e168eff5d07c
+2025-06-02 17:31:36,173 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: what question i asked before
+2025-06-02 17:31:40,571 - SmartStudyApp - INFO - Successfully generated response using model: meta-llama/Llama-3.3-70B-Instruct-Turbo-Free
+2025-06-02 17:31:40,575 - SmartStudyApp - INFO - AI interaction stored with ID: 2f9e6643-7adb-4aaf-b81a-d37b8303fdad
+2025-06-02 17:32:06,373 - SmartStudyApp - INFO - Database connection successful!
+2025-06-02 17:32:11,515 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: Explain the concept of paging in OS
+2025-06-02 17:32:16,806 - SmartStudyApp - INFO - Successfully generated response using model: meta-llama/Llama-3.3-70B-Instruct-Turbo-Free
+2025-06-02 17:32:16,826 - SmartStudyApp - INFO - AI interaction stored with ID: 467d9e69-2f40-48c6-808b-672fbff8ad2a
+2025-06-02 17:36:31,557 - SmartStudyApp - INFO - Database connection successful!
+2025-06-02 17:36:31,659 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: Explain the OSI model in computer networks
+2025-06-02 17:36:37,290 - SmartStudyApp - INFO - Successfully generated response using model: meta-llama/Llama-3.3-70B-Instruct-Turbo-Free
+2025-06-02 17:36:37,322 - SmartStudyApp - INFO - AI interaction stored with ID: f3dd358f-1c73-43e7-ab06-3a89541c4ece
+2025-06-02 17:36:48,921 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: what is process in os
+2025-06-02 17:36:56,681 - SmartStudyApp - INFO - Successfully generated response using model: meta-llama/Llama-3.3-70B-Instruct-Turbo-Free
+2025-06-02 17:36:56,697 - SmartStudyApp - INFO - AI interaction stored with ID: ec7c2dec-d1c6-443a-b0c2-dc6daf2f0c6d
+2025-06-02 17:38:42,971 - SmartStudyApp - INFO - Database connection successful!
+2025-06-02 17:38:49,868 - SmartStudyApp - INFO - Database connection successful!
+2025-06-02 17:39:02,158 - SmartStudyApp - INFO - Database connection successful!
+2025-06-02 17:39:02,398 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: hi
+2025-06-02 17:39:04,506 - SmartStudyApp - INFO - Successfully generated response using model: meta-llama/Llama-3.3-70B-Instruct-Turbo-Free
+2025-06-02 17:39:04,526 - SmartStudyApp - INFO - AI interaction stored with ID: 8e1318a8-5bc2-4961-abbf-ca84148e59ff
+2025-06-02 17:39:43,274 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: say "patil is op ...patil plz reply"
+2025-06-02 17:39:45,012 - SmartStudyApp - INFO - Successfully generated response using model: meta-llama/Llama-3.3-70B-Instruct-Turbo-Free
+2025-06-02 17:39:45,020 - SmartStudyApp - INFO - AI interaction stored with ID: a6c12d5c-f024-455e-ae29-1a16721622e1
+2025-06-02 17:41:57,719 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-02 17:41:57,753 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-02 17:49:10,489 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-02 17:49:10,504 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-02 20:32:48,640 - SmartStudyApp - INFO - Database connection successful!
+2025-06-02 20:35:11,987 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-06-02 20:35:12,268 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-06-02 20:35:16,618 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-02 20:35:53,538 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-06-02 20:35:53,748 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-06-02 20:35:54,780 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-02 20:41:24,583 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-02 20:41:24,599 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-02 20:47:37,230 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-02 20:47:37,246 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-02 20:47:56,522 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-06-02 20:47:56,533 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9

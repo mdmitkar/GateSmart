@@ -1,0 +1,50 @@
+2025-05-23 10:38:09,111 - SmartStudyApp - INFO - Database connection successful!
+2025-05-23 10:38:17,539 - SmartStudyApp - INFO - Root endpoint accessed
+2025-05-23 10:44:21,857 - SmartStudyApp - INFO - Register attempt for email: testuser@example.com
+2025-05-23 10:44:22,136 - SmartStudyApp - INFO - User registered successfully: testuser@example.com
+2025-05-23 10:45:59,117 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-05-23 10:45:59,356 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-05-23 10:46:02,762 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-05-23 10:46:02,988 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-05-23 10:46:48,957 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-05-23 10:46:49,186 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-05-23 10:54:50,040 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-05-23 10:54:50,261 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-05-23 14:07:02,583 - SmartStudyApp - INFO - Database connection successful!
+2025-05-23 14:09:28,639 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-05-23 14:09:28,953 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-05-23 14:09:34,562 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-23 14:18:08,274 - SmartStudyApp - INFO - Creating quiz for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-23 14:18:08,328 - SmartStudyApp - INFO - Quiz created with ID: 7b5416ec-944d-47d6-af9a-401fe6f9ce85
+2025-05-23 14:18:19,573 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-23 14:20:50,468 - SmartStudyApp - INFO - Creating quiz for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-23 14:20:50,474 - SmartStudyApp - INFO - Quiz created with ID: 68c5d879-c905-4a72-ba2e-e5b52d6376da
+2025-05-23 14:20:57,115 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-23 15:01:01,768 - SmartStudyApp - INFO - Database connection successful!
+2025-05-23 15:01:06,563 - SmartStudyApp - INFO - Root endpoint accessed
+2025-05-23 15:06:31,346 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-05-23 15:06:31,631 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-05-23 15:13:48,792 - SmartStudyApp - INFO - Database connection successful!
+2025-05-23 17:46:50,661 - SmartStudyApp - INFO - Database connection successful!
+2025-05-23 17:48:36,402 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-05-23 17:49:18,238 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-05-23 17:50:53,670 - SmartStudyApp - INFO - Database connection successful!
+2025-05-23 17:51:07,369 - SmartStudyApp - INFO - Database connection successful!
+2025-05-23 17:51:09,871 - SmartStudyApp - INFO - Database connection successful!
+2025-05-23 17:51:11,407 - SmartStudyApp - INFO - Database connection successful!
+2025-05-23 17:51:29,941 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-05-23 17:52:23,152 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-05-23 17:54:59,292 - SmartStudyApp - INFO - Database connection successful!
+2025-05-23 17:55:00,461 - SmartStudyApp - INFO - Database connection successful!
+2025-05-23 17:57:02,679 - SmartStudyApp - INFO - Database connection successful!
+2025-05-23 17:57:29,957 - SmartStudyApp - INFO - Database connection successful!
+2025-05-23 17:59:15,833 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-05-23 17:59:51,920 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-05-23 18:07:20,708 - SmartStudyApp - INFO - Database connection successful!
+2025-05-23 18:07:46,898 - SmartStudyApp - INFO - Database connection successful!
+2025-05-23 18:07:54,359 - SmartStudyApp - INFO - Database connection successful!
+2025-05-23 18:08:22,196 - SmartStudyApp - INFO - Database connection successful!
+2025-05-23 18:09:19,233 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-05-23 18:15:08,966 - SmartStudyApp - INFO - Database connection successful!
+2025-05-23 18:17:16,392 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-05-23 18:17:16,687 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com

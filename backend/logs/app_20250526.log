@@ -1,0 +1,157 @@
+2025-05-26 11:12:36,818 - SmartStudyApp - INFO - Database connection successful!
+2025-05-26 11:12:47,579 - SmartStudyApp - INFO - Root endpoint accessed
+2025-05-26 11:13:51,300 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-05-26 11:13:51,848 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-05-26 11:13:54,986 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-26 11:15:02,840 - SmartStudyApp - INFO - Register attempt for email: codyrhodes@gmail.com
+2025-05-26 11:15:03,261 - SmartStudyApp - INFO - User registered successfully: codyrhodes@gmail.com
+2025-05-26 11:15:19,612 - SmartStudyApp - INFO - Login attempt for email: codyrhodes@gmail.com
+2025-05-26 11:15:19,969 - SmartStudyApp - INFO - User logged in successfully: codyrhodes@gmail.com
+2025-05-26 11:15:21,419 - SmartStudyApp - INFO - Fetching quizzes for user ID: a27eb33a-ffa1-4a2e-955a-8deb88ac98e2
+2025-05-26 11:33:59,525 - SmartStudyApp - INFO - Fetching quizzes for user ID: a27eb33a-ffa1-4a2e-955a-8deb88ac98e2
+2025-05-26 11:33:59,570 - SmartStudyApp - INFO - Fetching quizzes for user ID: a27eb33a-ffa1-4a2e-955a-8deb88ac98e2
+2025-05-26 13:12:33,153 - SmartStudyApp - INFO - Database connection successful!
+2025-05-26 13:15:26,975 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-05-26 13:15:27,234 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-05-26 13:15:28,293 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-26 14:43:29,297 - SmartStudyApp - INFO - Database connection successful!
+2025-05-26 14:43:31,534 - SmartStudyApp - INFO - Root endpoint accessed
+2025-05-26 14:44:47,518 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-05-26 14:44:47,925 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-05-26 14:44:49,347 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-26 20:28:14,686 - SmartStudyApp - INFO - Database connection successful!
+2025-05-26 20:28:16,220 - SmartStudyApp - INFO - Root endpoint accessed
+2025-05-26 20:29:26,348 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-05-26 20:29:26,714 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-05-26 20:29:28,529 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-26 20:30:37,281 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-26 20:30:37,301 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-26 20:30:45,586 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-05-26 20:30:45,943 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-05-26 20:30:47,748 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-26 20:30:52,254 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: Explain the OSI model in computer networks
+2025-05-26 20:30:53,376 - SmartStudyApp - ERROR - Failed to generate Hugging Face response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/facebook/blenderbot-400M-distill
+2025-05-26 20:30:53,377 - SmartStudyApp - ERROR - Response status: No response
+2025-05-26 20:30:53,378 - SmartStudyApp - ERROR - Response content: No content
+2025-05-26 20:37:39,172 - SmartStudyApp - INFO - Database connection successful!
+2025-05-26 20:38:17,955 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: osi model
+2025-05-26 20:38:18,851 - SmartStudyApp - ERROR - Failed to generate Hugging Face response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/distilgpt2
+2025-05-26 20:38:18,851 - SmartStudyApp - ERROR - Response status: No response
+2025-05-26 20:38:18,852 - SmartStudyApp - ERROR - Response content: No content
+2025-05-26 20:38:18,896 - SmartStudyApp - INFO - AI interaction stored with ID: 53a3f39d-92eb-48b2-846f-295c1583444d
+2025-05-26 20:38:37,011 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: Explain the OSI model in computer networks
+2025-05-26 20:38:37,663 - SmartStudyApp - ERROR - Failed to generate Hugging Face response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/distilgpt2
+2025-05-26 20:38:37,663 - SmartStudyApp - ERROR - Response status: No response
+2025-05-26 20:38:37,664 - SmartStudyApp - ERROR - Response content: No content
+2025-05-26 20:38:37,673 - SmartStudyApp - INFO - AI interaction stored with ID: b678c96f-3435-44e4-b85f-2bda28f9b0ad
+2025-05-26 20:42:48,743 - SmartStudyApp - INFO - Database connection successful!
+2025-05-26 20:42:55,969 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: Explain the OSI model in computer networks
+2025-05-26 20:42:56,303 - SmartStudyApp - ERROR - Attempt 1/3 - Failed to generate Hugging Face response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/gpt2
+2025-05-26 20:42:56,303 - SmartStudyApp - ERROR - Response status: No response
+2025-05-26 20:42:56,304 - SmartStudyApp - ERROR - Response content: No content
+2025-05-26 20:42:58,899 - SmartStudyApp - ERROR - Attempt 2/3 - Failed to generate Hugging Face response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/gpt2
+2025-05-26 20:42:58,899 - SmartStudyApp - ERROR - Response status: No response
+2025-05-26 20:42:58,900 - SmartStudyApp - ERROR - Response content: No content
+2025-05-26 20:43:01,546 - SmartStudyApp - ERROR - Attempt 3/3 - Failed to generate Hugging Face response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/gpt2
+2025-05-26 20:43:01,546 - SmartStudyApp - ERROR - Response status: No response
+2025-05-26 20:43:01,547 - SmartStudyApp - ERROR - Response content: No content
+2025-05-26 20:43:03,563 - SmartStudyApp - INFO - AI interaction stored with ID: f74d651a-28dc-49a7-bca5-ee8604359392
+2025-05-26 20:53:45,583 - SmartStudyApp - INFO - Database connection successful!
+2025-05-26 20:54:19,173 - SmartStudyApp - INFO - Database connection successful!
+2025-05-26 20:54:22,272 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-26 20:54:22,299 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-26 20:54:34,229 - SmartStudyApp - INFO - Login attempt for email: testuser@example.com
+2025-05-26 20:54:34,612 - SmartStudyApp - INFO - User logged in successfully: testuser@example.com
+2025-05-26 20:54:36,971 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-26 20:54:44,786 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: Explain the OSI model in computer networks
+2025-05-26 20:54:45,666 - SmartStudyApp - ERROR - Attempt 1/3 - Failed to generate Hugging Face response: 404 Client Error: Not Found for url: https://api-inference.huggingface.co/models/gpt2
+2025-05-26 20:54:45,666 - SmartStudyApp - ERROR - Response status: No response
+2025-05-26 20:54:45,667 - SmartStudyApp - ERROR - Response content: No content
+2025-05-26 20:54:48,424 - SmartStudyApp - ERROR - Attempt 2/3 - Failed to generate Hugging Face response: 404 Client Error: Not Found for url: https://api-inference.huggingface.co/models/gpt2
+2025-05-26 20:54:48,425 - SmartStudyApp - ERROR - Response status: No response
+2025-05-26 20:54:48,426 - SmartStudyApp - ERROR - Response content: No content
+2025-05-26 20:54:51,083 - SmartStudyApp - ERROR - Attempt 3/3 - Failed to generate Hugging Face response: 404 Client Error: Not Found for url: https://api-inference.huggingface.co/models/gpt2
+2025-05-26 20:54:51,084 - SmartStudyApp - ERROR - Response status: No response
+2025-05-26 20:54:51,085 - SmartStudyApp - ERROR - Response content: No content
+2025-05-26 20:54:53,127 - SmartStudyApp - INFO - AI interaction stored with ID: 6c13fba5-5339-4a2a-85a8-bfdd29383794
+2025-05-26 20:59:20,370 - SmartStudyApp - INFO - Database connection successful!
+2025-05-26 20:59:41,137 - SmartStudyApp - INFO - Database connection successful!
+2025-05-26 21:00:13,899 - SmartStudyApp - INFO - Database connection successful!
+2025-05-26 21:00:48,932 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-26 21:00:48,948 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-26 21:00:50,979 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-26 21:01:00,245 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: Explain the OSI model in computer networks
+2025-05-26 21:01:01,565 - SmartStudyApp - ERROR - Attempt 1/3 - Failed to generate Hugging Face response: 404 Client Error: Not Found for url: https://api-inference.huggingface.co/models/distilgpt2
+2025-05-26 21:01:01,565 - SmartStudyApp - ERROR - Response status: No response
+2025-05-26 21:01:01,565 - SmartStudyApp - ERROR - Response content: No content
+2025-05-26 21:01:03,866 - SmartStudyApp - ERROR - Attempt 2/3 - Failed to generate Hugging Face response: 404 Client Error: Not Found for url: https://api-inference.huggingface.co/models/distilgpt2
+2025-05-26 21:01:03,866 - SmartStudyApp - ERROR - Response status: No response
+2025-05-26 21:01:03,866 - SmartStudyApp - ERROR - Response content: No content
+2025-05-26 21:01:06,579 - SmartStudyApp - ERROR - Attempt 3/3 - Failed to generate Hugging Face response: 404 Client Error: Not Found for url: https://api-inference.huggingface.co/models/distilgpt2
+2025-05-26 21:01:06,579 - SmartStudyApp - ERROR - Response status: No response
+2025-05-26 21:01:06,580 - SmartStudyApp - ERROR - Response content: No content
+2025-05-26 21:01:08,593 - SmartStudyApp - INFO - AI interaction stored with ID: caa97a06-339c-4379-90ae-5434c475a992
+2025-05-26 21:02:43,239 - SmartStudyApp - INFO - Database connection successful!
+2025-05-26 21:03:02,059 - SmartStudyApp - INFO - Database connection successful!
+2025-05-26 21:03:09,620 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: Explain the OSI model in computer networks
+2025-05-26 21:03:10,459 - SmartStudyApp - ERROR - Attempt 1/3 - Failed to generate Hugging Face response: 404 Client Error: Not Found for url: https://api-inference.huggingface.co/models/gpt2
+2025-05-26 21:03:10,460 - SmartStudyApp - ERROR - Response status: No response
+2025-05-26 21:03:10,460 - SmartStudyApp - ERROR - Response content: No content
+2025-05-26 21:03:13,418 - SmartStudyApp - ERROR - Attempt 2/3 - Failed to generate Hugging Face response: 404 Client Error: Not Found for url: https://api-inference.huggingface.co/models/gpt2
+2025-05-26 21:03:13,419 - SmartStudyApp - ERROR - Response status: No response
+2025-05-26 21:03:13,419 - SmartStudyApp - ERROR - Response content: No content
+2025-05-26 21:03:16,201 - SmartStudyApp - ERROR - Attempt 3/3 - Failed to generate Hugging Face response: 404 Client Error: Not Found for url: https://api-inference.huggingface.co/models/gpt2
+2025-05-26 21:03:16,201 - SmartStudyApp - ERROR - Response status: No response
+2025-05-26 21:03:16,201 - SmartStudyApp - ERROR - Response content: No content
+2025-05-26 21:03:18,212 - SmartStudyApp - INFO - AI interaction stored with ID: 18d84c86-9996-48c5-9ec7-d312b3250ddd
+2025-05-26 21:03:58,478 - SmartStudyApp - INFO - Database connection successful!
+2025-05-26 21:04:02,523 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: Explain the OSI model in computer networks
+2025-05-26 21:04:03,197 - SmartStudyApp - ERROR - Attempt 1/3 - Failed to generate Hugging Face response: 404 Client Error: Not Found for url: https://api-inference.huggingface.co/models/mistralai/Devstral-Small-2505
+2025-05-26 21:04:03,198 - SmartStudyApp - ERROR - Response status: No response
+2025-05-26 21:04:03,198 - SmartStudyApp - ERROR - Response content: No content
+2025-05-26 21:04:06,148 - SmartStudyApp - ERROR - Attempt 2/3 - Failed to generate Hugging Face response: 404 Client Error: Not Found for url: https://api-inference.huggingface.co/models/mistralai/Devstral-Small-2505
+2025-05-26 21:04:06,149 - SmartStudyApp - ERROR - Response status: No response
+2025-05-26 21:04:06,149 - SmartStudyApp - ERROR - Response content: No content
+2025-05-26 21:04:08,793 - SmartStudyApp - ERROR - Attempt 3/3 - Failed to generate Hugging Face response: 404 Client Error: Not Found for url: https://api-inference.huggingface.co/models/mistralai/Devstral-Small-2505
+2025-05-26 21:04:08,793 - SmartStudyApp - ERROR - Response status: No response
+2025-05-26 21:04:08,794 - SmartStudyApp - ERROR - Response content: No content
+2025-05-26 21:04:10,808 - SmartStudyApp - INFO - AI interaction stored with ID: 31e95686-82e4-4ba9-a896-05e57bec302f
+2025-05-26 21:04:54,241 - SmartStudyApp - INFO - Database connection successful!
+2025-05-26 21:05:00,325 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: Explain the OSI model in computer networks
+2025-05-26 21:05:01,917 - SmartStudyApp - ERROR - Attempt 1/3 - Failed to generate Hugging Face response: 404 Client Error: Not Found for url: https://api-inference.huggingface.co/models/google/medgemma-27b-text-it
+2025-05-26 21:05:01,917 - SmartStudyApp - ERROR - Response status: No response
+2025-05-26 21:05:01,918 - SmartStudyApp - ERROR - Response content: No content
+2025-05-26 21:05:04,692 - SmartStudyApp - ERROR - Attempt 2/3 - Failed to generate Hugging Face response: 404 Client Error: Not Found for url: https://api-inference.huggingface.co/models/google/medgemma-27b-text-it
+2025-05-26 21:05:04,693 - SmartStudyApp - ERROR - Response status: No response
+2025-05-26 21:05:04,693 - SmartStudyApp - ERROR - Response content: No content
+2025-05-26 21:05:07,365 - SmartStudyApp - ERROR - Attempt 3/3 - Failed to generate Hugging Face response: 404 Client Error: Not Found for url: https://api-inference.huggingface.co/models/google/medgemma-27b-text-it
+2025-05-26 21:05:07,365 - SmartStudyApp - ERROR - Response status: No response
+2025-05-26 21:05:07,365 - SmartStudyApp - ERROR - Response content: No content
+2025-05-26 21:05:09,380 - SmartStudyApp - INFO - AI interaction stored with ID: 2516d0ba-b29b-4fac-a1d3-9ba780141f40
+2025-05-26 21:06:02,305 - SmartStudyApp - INFO - Database connection successful!
+2025-05-26 21:06:08,035 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-26 21:06:08,075 - SmartStudyApp - INFO - Fetching quizzes for user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9
+2025-05-26 21:06:11,718 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: Explain the OSI model in computer networks
+2025-05-26 21:06:12,400 - SmartStudyApp - ERROR - Attempt 1/3 - Failed to generate Hugging Face response: 401 Client Error: Unauthorized for url: https://api-inference.huggingface.co/models/bigscience/bloom-560m
+2025-05-26 21:06:12,400 - SmartStudyApp - ERROR - Response status: No response
+2025-05-26 21:06:12,400 - SmartStudyApp - ERROR - Response content: No content
+2025-05-26 21:06:14,639 - SmartStudyApp - ERROR - Attempt 2/3 - Failed to generate Hugging Face response: 401 Client Error: Unauthorized for url: https://api-inference.huggingface.co/models/bigscience/bloom-560m
+2025-05-26 21:06:14,639 - SmartStudyApp - ERROR - Response status: No response
+2025-05-26 21:06:14,639 - SmartStudyApp - ERROR - Response content: No content
+2025-05-26 21:06:17,373 - SmartStudyApp - ERROR - Attempt 3/3 - Failed to generate Hugging Face response: 401 Client Error: Unauthorized for url: https://api-inference.huggingface.co/models/bigscience/bloom-560m
+2025-05-26 21:06:17,375 - SmartStudyApp - ERROR - Response status: No response
+2025-05-26 21:06:17,375 - SmartStudyApp - ERROR - Response content: No content
+2025-05-26 21:06:19,391 - SmartStudyApp - INFO - AI interaction stored with ID: 645a506b-7664-45db-8f40-a4865f5246c9
+2025-05-26 21:10:03,567 - SmartStudyApp - INFO - Database connection successful!
+2025-05-26 21:10:10,935 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: Explain the OSI model in computer networks
+2025-05-26 21:10:10,936 - SmartStudyApp - INFO - Matched query 'explain the osi model in computer networks' to 'explain the osi model in computer networks' with score 100
+2025-05-26 21:10:10,957 - SmartStudyApp - INFO - AI interaction stored with ID: 34d09b5c-84a5-41b7-af8b-43c3a681172d
+2025-05-26 21:10:14,688 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: hi
+2025-05-26 21:10:14,689 - SmartStudyApp - INFO - Matched query 'hi' to 'hi' with score 100
+2025-05-26 21:10:14,700 - SmartStudyApp - INFO - AI interaction stored with ID: 6bbb3e3b-37de-4465-a9ed-d6d063aa8d4f
+2025-05-26 21:10:19,267 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: whats ur name
+2025-05-26 21:10:19,267 - SmartStudyApp - INFO - No match found for query: whats ur name
+2025-05-26 21:10:19,271 - SmartStudyApp - INFO - AI interaction stored with ID: eec1c2c1-4ad4-47b0-83f2-a3782d5df0b2
+2025-05-26 21:10:29,525 - SmartStudyApp - INFO - AI Tutor request from user ID: 026bbd66-baec-4d36-b9cf-a98695a672b9 with query: whats the process in os
+2025-05-26 21:10:29,526 - SmartStudyApp - INFO - No match found for query: whats the process in os
+2025-05-26 21:10:29,528 - SmartStudyApp - INFO - AI interaction stored with ID: 3425cdae-d0af-46db-8932-a0f013078bef
