@@ -19,7 +19,7 @@ export default function HelpPage() {
   const [searchQuery, setSearchQuery] = useState("")
   const [expandedId, setExpandedId] = useState<number | null>(null)
   const [activeCategory, setActiveCategory] = useState<string | null>(null)
-  
+
   // FAQ data
   const faqItems: FAQItem[] = [
     {
@@ -83,21 +83,21 @@ export default function HelpPage() {
       category: "Account"
     },
   ]
-  
+
   // Get all unique categories
   const categories = Array.from(new Set(faqItems.map(item => item.category)))
-  
+
   // Filter FAQ items based on search query and active category
   const filteredFAQs = faqItems.filter(item => {
-    const matchesSearch = searchQuery === "" || 
+    const matchesSearch = searchQuery === "" ||
       item.question.toLowerCase().includes(searchQuery.toLowerCase()) ||
       item.answer.toLowerCase().includes(searchQuery.toLowerCase())
-    
+
     const matchesCategory = activeCategory === null || item.category === activeCategory
-    
+
     return matchesSearch && matchesCategory
   })
-  
+
   // Toggle FAQ item expansion
   const toggleExpand = (id: number) => {
     setExpandedId(expandedId === id ? null : id)
@@ -114,14 +114,14 @@ export default function HelpPage() {
             <ArrowLeft className="h-4 w-4 mr-2" />
             Back to Dashboard
           </Link>
-          
+
           {/* Header */}
           <div className="text-center mb-12">
             <h1 className="text-3xl font-bold text-white mb-4">Help Center</h1>
             <p className="text-gray-400 max-w-2xl mx-auto">
               Find answers to frequently asked questions about SmartStudy
             </p>
-            
+
             {/* Search */}
             <div className="mt-8 max-w-md mx-auto">
               <div className="relative">
@@ -136,7 +136,7 @@ export default function HelpPage() {
               </div>
             </div>
           </div>
-          
+
           {/* Category filters */}
           <div className="flex flex-wrap gap-2 mb-8 justify-center">
             <Button
@@ -159,13 +159,13 @@ export default function HelpPage() {
               </Button>
             ))}
           </div>
-          
+
           {/* FAQ items */}
           <div className="space-y-4">
             {filteredFAQs.length > 0 ? (
               filteredFAQs.map((item) => (
-                <div 
-                  key={item.id} 
+                <div
+                  key={item.id}
                   className="bg-gray-900 border border-gray-800 rounded-lg overflow-hidden"
                 >
                   <button
@@ -196,9 +196,9 @@ export default function HelpPage() {
                 </div>
                 <h3 className="text-lg font-medium text-white mb-2">No results found</h3>
                 <p className="text-gray-400 max-w-md mx-auto">
-                  We couldn't find any FAQs matching your search. Try using different keywords or browse by category.
+                  We couldn&apos;t find any FAQs matching your search. Try using different keywords or browse by category.
                 </p>
-                <Button 
+                <Button
                   className="mt-4 bg-primary hover:bg-primary/90"
                   onClick={() => {
                     setSearchQuery('')
@@ -210,12 +210,12 @@ export default function HelpPage() {
               </div>
             )}
           </div>
-          
+
           {/* Contact support */}
           <div className="mt-16 bg-gray-900 border border-gray-800 rounded-lg p-6 text-center">
             <h2 className="text-xl font-bold text-white mb-2">Still need help?</h2>
             <p className="text-gray-400 mb-6">
-              Can't find what you're looking for? Our support team is here to help.
+              Can&apos;t find what you&apos;re looking for? Our support team is here to help.
             </p>
             <Button className="bg-primary hover:bg-primary/90">
               <MessageSquare className="h-4 w-4 mr-2" />
@@ -223,9 +223,9 @@ export default function HelpPage() {
             </Button>
           </div>
         </div>
-      </main>
+      </main >
 
       <Footer />
-    </div>
+    </div >
   )
 }

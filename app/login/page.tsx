@@ -3,7 +3,7 @@
 import type React from "react"
 import { useState } from "react"
 import Link from "next/link"
-import { useRouter } from "next/navigation"
+
 import { Button } from "@/components/ui/button"
 import { Label } from "@/components/ui/label"
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
@@ -18,57 +18,62 @@ export default function LoginPage() {
   })
   const [error, setError] = useState("")
   const [loading, setLoading] = useState(false)
-  const router = useRouter()
+
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const { name, value } = e.target
     setFormData((prev) => ({ ...prev, [name]: value }))
   }
 
- const handleSubmit = async (e: React.FormEvent) => {
-  e.preventDefault()
-  setError("")
-  setLoading(true)
-  console.log("Form submitted with:", formData)
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault()
+    setError("")
+    setLoading(true)
+    console.log("Form submitted with:", formData)
 
-  try {
-    const response = await fetch("http://localhost:8000/api/auth/login", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        email: formData.email,
-        password: formData.password,
-      }),
-    })
+    try {
+      const response = await fetch("http://localhost:8000/api/auth/login", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          email: formData.email,
+          password: formData.password,
+        }),
+      })
 
-    console.log("Fetch response status:", response.status)
-    if (!response.ok) {
-      const errorData = await response.json()
-      console.log("Error data:", errorData)
-      throw new Error(errorData.detail || "Login failed")
+      console.log("Fetch response status:", response.status)
+      if (!response.ok) {
+        const errorData = await response.json()
+        console.log("Error data:", errorData)
+        throw new Error(errorData.detail || "Login failed")
+      }
+
+      const data = await response.json()
+      console.log("Login successful, data:", data)
+
+      // Store token in a cookie
+      document.cookie = `token=${data.access_token}; path=/; max-age=${30 * 24 * 60 * 60}` // 30 days expiry
+      console.log("Token stored in cookie:", document.cookie)
+
+      // Force redirect with a slight delay to ensure state updates
+      setTimeout(() => {
+        window.location.href = "/dashboard/quizzes"
+        console.log("Redirecting to /dashboard/quizzes using window.location.href")
+      }, 100)
+    } catch (err: unknown) {
+      if (err instanceof Error) {
+        console.log("Error during login:", err.message)
+        setError(err.message)
+      } else {
+        console.log("Error during login: Unknown error")
+        setError("Login failed")
+      }
+    } finally {
+      setLoading(false)
     }
-
-    const data = await response.json()
-    console.log("Login successful, data:", data)
-    
-    // Store token in a cookie
-    document.cookie = `token=${data.access_token}; path=/; max-age=${30 * 24 * 60 * 60}` // 30 days expiry
-    console.log("Token stored in cookie:", document.cookie)
-    
-    // Force redirect with a slight delay to ensure state updates
-    setTimeout(() => {
-      window.location.href = "/dashboard/quizzes"
-      console.log("Redirecting to /dashboard/quizzes using window.location.href")
-    }, 100)
-  } catch (err) {
-    console.log("Error during login:", err.message)
-    setError(err.message)
-  } finally {
-    setLoading(false)
   }
-}
 
   return (
     <div className="min-h-screen flex flex-col">
@@ -128,8 +133,8 @@ export default function LoginPage() {
               </CardContent>
 
               <CardFooter className="flex flex-col space-y-4">
-                <Button 
-                  type="submit" 
+                <Button
+                  type="submit"
                   disabled={loading}
                   className="w-full button-hover bg-primary hover:bg-primary/90 text-white disabled:opacity-50"
                 >
@@ -137,7 +142,7 @@ export default function LoginPage() {
                 </Button>
 
                 <div className="text-center text-sm text-gray-400">
-                  Don't have an account?{" "}
+                  Don&apos;t have an account?{" "}
                   <Link href="/signup" className="text-primary hover:text-primary/90 font-medium transition-colors">
                     Sign up
                   </Link>
