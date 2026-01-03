@@ -2,6 +2,7 @@
 
 import { useState } from "react"
 import { useRouter } from "next/navigation"
+import Link from "next/link"
 
 export default function SignupPage() {
   const [formData, setFormData] = useState({
@@ -14,12 +15,12 @@ export default function SignupPage() {
   const [loading, setLoading] = useState(false)
   const router = useRouter()
 
-  const handleChange = (e) => {
+  const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const { name, value } = e.target
     setFormData((prev) => ({ ...prev, [name]: value }))
   }
 
-  const handleSubmit = async (e) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
     setError("")
     setLoading(true)
@@ -50,8 +51,8 @@ export default function SignupPage() {
       }
 
       router.push("/login")
-    } catch (err) {
-      setError(err.message)
+    } catch (err: any) {
+      setError(err.message || "Something went wrong")
     } finally {
       setLoading(false)
     }
@@ -62,16 +63,16 @@ export default function SignupPage() {
       <header className="bg-black/90 border-b border-gray-800 sticky top-0 z-50">
         <div className="container mx-auto px-4 md:px-6">
           <div className="flex items-center justify-between h-16">
-            <a href="/" className="flex items-center">
+            <Link href="/" className="flex items-center">
               <span className="text-2xl font-bold text-white">
                 <span className="text-blue-500">Smart</span>Study
               </span>
-            </a>
+            </Link>
 
             <div className="flex items-center space-x-4">
-              <a href="/login" className="text-gray-300 hover:text-white px-4 py-2 rounded-md">
+              <Link href="/login" className="text-gray-300 hover:text-white px-4 py-2 rounded-md">
                 Login
-              </a>
+              </Link>
             </div>
           </div>
         </div>
@@ -166,9 +167,9 @@ export default function SignupPage() {
 
               <div className="text-center mt-6 text-gray-400">
                 Already have an account?{" "}
-                <a href="/login" className="text-blue-400 hover:underline">
+                <Link href="/login" className="text-blue-400 hover:underline">
                   Sign in
-                </a>
+                </Link>
               </div>
             </form>
           </div>
