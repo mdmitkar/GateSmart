@@ -1,6 +1,6 @@
 "use client"
 
-import { useEffect, useRef } from "react"
+import { useEffect, useRef, useState } from "react"
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import Navbar from "@/components/navbar"
@@ -13,8 +13,11 @@ export default function LandingPage() {
   const featuresRef = useRef<HTMLDivElement>(null)
   const howItWorksRef = useRef<HTMLDivElement>(null)
   const ctaRef = useRef<HTMLDivElement>(null)
+  const [mounted, setMounted] = useState(false)
 
   useEffect(() => {
+    setMounted(true)
+
     // Intersection Observer for scroll animations
     const observerOptions = {
       root: null,
@@ -101,46 +104,46 @@ export default function LandingPage() {
                   </Link>
                 </div>
               </div>
-<div className="md:w-1/2">
-  <div className="relative w-full h-[400px] transform transition-all duration-700 hover:scale-105">
-    <div className="absolute inset-0 bg-gradient-to-r from-primary/20 to-secondary/20 rounded-lg blur-md"></div>
-    <div className="relative bg-gray-900/80 backdrop-blur-sm border border-gray-800 rounded-lg h-full overflow-hidden">
-      {/* Animated particles background */}
-      <div className="absolute inset-0">
-        {Array.from({ length: 20 }).map((_, i) => (
-          <div
-            key={i}
-            className="absolute rounded-full bg-primary/30"
-            style={{
-              width: `${Math.random() * 10 + 5}px`,
-              height: `${Math.random() * 10 + 5}px`,
-              top: `${Math.random() * 100}%`,
-              left: `${Math.random() * 100}%`,
-              animation: `float ${Math.random() * 10 + 10}s linear infinite`,
-              animationDelay: `${Math.random() * 5}s`,
-            }}
-          />
-        ))}
-      </div>
-      
-      {/* 3D-like card stack */}
-      <div className="relative h-full flex items-center justify-center p-8">
-        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-64 h-64 bg-gray-800/50 rounded-xl transform rotate-12 translate-x-6 -translate-y-6"></div>
-        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-64 h-64 bg-gray-800/80 rounded-xl transform -rotate-6 -translate-x-4 translate-y-2"></div>
-        <div className="relative bg-gradient-to-br from-gray-900 to-gray-800 w-64 h-64 rounded-xl shadow-xl flex flex-col items-center justify-center p-6 border border-gray-700">
-          <div className="w-20 h-20 rounded-full bg-primary/20 flex items-center justify-center mb-4 relative">
-            <div className="absolute inset-0 rounded-full bg-primary/10 animate-ping"></div>
-            <Brain className="h-10 w-10 text-primary" />
-          </div>
-          <h3 className="text-xl font-bold text-white mb-2">AI-Powered Learning</h3>
-          <p className="text-gray-300 text-center text-sm">
-            Our intelligent system adapts to your learning style and helps you master GATE concepts efficiently.
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+              <div className="md:w-1/2">
+                <div className="relative w-full h-[400px] transform transition-all duration-700 hover:scale-105">
+                  <div className="absolute inset-0 bg-gradient-to-r from-primary/20 to-secondary/20 rounded-lg blur-md"></div>
+                  <div className="relative bg-gray-900/80 backdrop-blur-sm border border-gray-800 rounded-lg h-full overflow-hidden">
+                    {/* Animated particles background */}
+                    <div className="absolute inset-0">
+                      {mounted && Array.from({ length: 20 }).map((_, i) => (
+                        <div
+                          key={i}
+                          className="absolute rounded-full bg-primary/30"
+                          style={{
+                            width: `${Math.random() * 10 + 5}px`,
+                            height: `${Math.random() * 10 + 5}px`,
+                            top: `${Math.random() * 100}%`,
+                            left: `${Math.random() * 100}%`,
+                            animation: `float ${Math.random() * 10 + 10}s linear infinite`,
+                            animationDelay: `${Math.random() * 5}s`,
+                          }}
+                        />
+                      ))}
+                    </div>
+
+                    {/* 3D-like card stack */}
+                    <div className="relative h-full flex items-center justify-center p-8">
+                      <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-64 h-64 bg-gray-800/50 rounded-xl transform rotate-12 translate-x-6 -translate-y-6"></div>
+                      <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-64 h-64 bg-gray-800/80 rounded-xl transform -rotate-6 -translate-x-4 translate-y-2"></div>
+                      <div className="relative bg-gradient-to-br from-gray-900 to-gray-800 w-64 h-64 rounded-xl shadow-xl flex flex-col items-center justify-center p-6 border border-gray-700">
+                        <div className="w-20 h-20 rounded-full bg-primary/20 flex items-center justify-center mb-4 relative">
+                          <div className="absolute inset-0 rounded-full bg-primary/10 animate-ping"></div>
+                          <Brain className="h-10 w-10 text-primary" />
+                        </div>
+                        <h3 className="text-xl font-bold text-white mb-2">AI-Powered Learning</h3>
+                        <p className="text-gray-300 text-center text-sm">
+                          Our intelligent system adapts to your learning style and helps you master GATE concepts efficiently.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </section>
@@ -216,7 +219,7 @@ export default function LandingPage() {
                   Want to See the Full Site Working?
                 </h2>
                 <p className="text-gray-300 mb-6">
-                  Watch our comprehensive demo to see all features in action! 
+                  Watch our comprehensive demo to see all features in action!
                   Navigate to the navbar and click "Watch Demo" to see the complete app demonstration.
                 </p>
                 <Link href="/demo">

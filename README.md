@@ -99,6 +99,7 @@ FRONTEND
  npm run dev
  BACKEND 
  (ss) PS C:\Users\Muhammad Mitkar\Desktop\GateSmart\smart-study-app\backend> deactivate
+ 
 PS C:\Users\Muhammad Mitkar\Desktop\GateSmart\smart-study-app\backend> cd .\ss\Scripts\
 PS C:\Users\Muhammad Mitkar\Desktop\GateSmart\smart-study-app\backend\ss\Scripts> .\activate
 (ss) PS C:\Users\Muhammad Mitkar\Desktop\GateSmart\smart-study-app\backend\ss\Scripts> cd ..
