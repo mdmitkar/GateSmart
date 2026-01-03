@@ -104,3 +104,6 @@ PS C:\Users\Muhammad Mitkar\Desktop\GateSmart\smart-study-app\backend\ss\Scripts
 (ss) PS C:\Users\Muhammad Mitkar\Desktop\GateSmart\smart-study-app\backend\ss\Scripts> cd ..
 (ss) PS C:\Users\Muhammad Mitkar\Desktop\GateSmart\smart-study-app\backend\ss> cd ..
 (ss) PS C:\Users\Muhammad Mitkar\Desktop\GateSmart\smart-study-app\backend> uvicorn app.main:app --reload
+
+
+hi bhai 
