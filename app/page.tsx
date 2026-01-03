@@ -220,7 +220,7 @@ export default function LandingPage() {
                 </h2>
                 <p className="text-gray-300 mb-6">
                   Watch our comprehensive demo to see all features in action!
-                  Navigate to the navbar and click "Watch Demo" to see the complete app demonstration.
+                  Navigate to the navbar and click &quot;Watch Demo&quot; to see the complete app demonstration.
                 </p>
                 <Link href="/demo">
                   <Button className="button-hover bg-primary hover:bg-primary/90 text-white px-6 py-3 group transition-all duration-300 transform hover:translate-y-[-2px]">

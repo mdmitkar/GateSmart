@@ -8,12 +8,12 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import Navbar from "@/components/navbar"
 import Footer from "@/components/footer"
-import { BookOpen, Video, FileText, ExternalLink, ArrowRight } from 'lucide-react'
+import { BookOpen, Video, FileText, ArrowRight } from 'lucide-react'
 
 export default function ResourcesPage() {
   const router = useRouter()
   const [isLoggedIn, setIsLoggedIn] = useState(false)
-  
+
   // This is a placeholder - in a real app, you'd check if the user is logged in
   useEffect(() => {
     // Check if user is logged in - this is just a placeholder
@@ -22,10 +22,10 @@ export default function ResourcesPage() {
       // For now, we'll assume the user is not logged in
       setIsLoggedIn(false)
     }
-    
+
     checkLoginStatus()
   }, [])
-  
+
   // If logged in, redirect to dashboard resources
   useEffect(() => {
     if (isLoggedIn) {
